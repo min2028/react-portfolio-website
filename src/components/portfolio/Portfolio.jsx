@@ -2,7 +2,7 @@ import React from 'react'
 import "./portfolio.css"
 import IMG1 from "../../assets/unilife-pic.png"
 import IMG2 from "../../assets/mediquest-pic.png"
-import IMG3 from "../../assets/me1.JPG"
+import IMG3 from "../../assets/flashcard-pic.jpg"
 
 const data = [
   {
@@ -25,7 +25,7 @@ const data = [
     image: IMG3,
     title: "Flashcard project",
     description: "A GUI written in Java using Java Swing",
-    github: ["www.github.com"]
+    github: ["https://github.com/min2028/flashcard-java"]
   }
 ]
 

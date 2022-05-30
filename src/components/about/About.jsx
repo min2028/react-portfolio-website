@@ -38,8 +38,8 @@ const About = () => {
 
           <p> 
           I am from Yangon, Myanmar and I am a 3rd year Biology and Computer Science student at the University of British Columbia, Vancouver.
-          Computer Science interests me because of the potential I have such as designing and creating a small software of my own or my 
-          contributions leading to a much bigger one which could have an impact on the world.
+          Computer Science interests me as there are numerous potential activites I could do, from designing and creating a small software of my own to 
+          contributing to a much bigger technology which could have an impact on the world.
           I am interested in big data and software engineering but I am willing to explore and learn other disciplines of computer science
           and those where I could integrate my knowledge of biology into. 
           I enjoy working in teams on projects and assignments where we could brainstorm together and exchange knowledge.
