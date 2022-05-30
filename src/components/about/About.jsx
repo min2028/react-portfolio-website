@@ -37,12 +37,13 @@ const About = () => {
           </div>
 
           <p> 
-          Canada is one of the best countries in the world to live in. First, Canada has an
-excellent health care system. All Canadians have access to medical services at a reasonable
-price. Second, Canada has a high standard of education. Students are taught by well‐trained
-teachers and are encouraged to continue studying at university. Finally, Canada's cities are clean
-and efficiently managed. Canadian cities have many parks and lots of space for people to live. As
-a result, Canada is a desirable place to live. 
+          I am from Yangon, Myanmar and I am a 3rd year Biology and Computer Science student at the University of British Columbia, Vancouver.
+          Computer Science interests me because of the potential I have such as designing and creating a small software of my own or my 
+          contributions leading to a much bigger one which could have an impact on the world.
+          I am interested in big data and software engineering but I am willing to explore and learn other disciplines of computer science
+          and those where I could integrate my knowledge of biology into. 
+          I enjoy working in teams on projects and assignments where we could brainstorm together and exchange knowledge.
+          It is always fun looking back at the things accomplished together.
           </p>
           
           <a href="#contact" className='btn btn-primary'> Let's Have A Chat </a>
