@@ -11,12 +11,12 @@ export const Footer = () => {
       <a href='#' className='footer__logo'> Aung Khant Min </a>
 
       <ul className='permalinks'>
-        <li href='#'> Home <a/> </li>
-        <li href='#about'> About <a/> </li>
-        <li href='#experience'> Experience <a/> </li>
-        <li href='#portfolio'> Portfolio <a/> </li>
-        <li href='#education'> Education <a/> </li>
-        <li href='#contact'> Contact <a/> </li>
+        <li> <a href='#'> Home </a></li>
+        <li> <a href='#about'> About </a></li>
+        <li> <a href='#experience'> Experience </a></li>
+        <li> <a href='#portfolio'> Portfolio </a></li>
+        <li> <a href='#education'> Education </a></li>
+        <li> <a href='#contact'> Contact </a></li>
       </ul>
       <div className="footer__socials">
         <a href='https://www.linkedin.com/in/aung-khant-min-258b6b180/' target="_blank"> <RiLinkedinBoxFill/></a>

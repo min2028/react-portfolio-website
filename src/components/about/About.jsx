@@ -45,6 +45,12 @@ const About = () => {
           I enjoy working in teams on projects and assignments where we could brainstorm together and exchange knowledge.
           It is always fun looking back at the things accomplished together.
           </p>
+
+          <p>
+          Currently, I am taking "<a href='https://www.udemy.com/course/the-complete-web-development-bootcamp/'>
+          The Complete 2022 Web Development bootcamp </a>" by Udemy.
+          I will learn the skills stated in the course description upon completion before September.
+          </p>
           
           <a href="#contact" className='btn btn-primary'> Let's Have A Chat </a>
         </div>
