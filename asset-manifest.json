@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-portfolio-website/static/css/main.af09be51.css",
-    "main.js": "/react-portfolio-website/static/js/main.4e893413.js",
+    "main.js": "/react-portfolio-website/static/js/main.bf752e21.js",
     "static/media/me1.JPG": "/react-portfolio-website/static/media/me1.4968b235d1fb4880de00.JPG",
     "static/media/me3.JPG": "/react-portfolio-website/static/media/me3.dfdc085a4be1243191e9.JPG",
     "static/media/mediquest-pic.png": "/react-portfolio-website/static/media/mediquest-pic.b305671a71303d1f57d2.png",
     "static/media/UBCO.jpg": "/react-portfolio-website/static/media/UBCO.44c96ca5b88cabd96551.jpg",
     "static/media/UBCV.jpg": "/react-portfolio-website/static/media/UBCV.e0aac8070258c9765530.jpg",
-    "static/media/resume.pdf": "/react-portfolio-website/static/media/resume.3e1505adc27e9be5167f.pdf",
+    "static/media/resume.pdf": "/react-portfolio-website/static/media/resume.4ed697ce211edeb815e9.pdf",
     "static/media/rbc.jpg": "/react-portfolio-website/static/media/rbc.58be029f6c552dfa5915.jpg",
     "static/media/unilife-pic.png": "/react-portfolio-website/static/media/unilife-pic.834a4c047faf8f736862.png",
     "static/media/flashcard-pic.jpg": "/react-portfolio-website/static/media/flashcard-pic.e94fecc41249dff88d27.jpg",
     "index.html": "/react-portfolio-website/index.html",
     "main.af09be51.css.map": "/react-portfolio-website/static/css/main.af09be51.css.map",
-    "main.4e893413.js.map": "/react-portfolio-website/static/js/main.4e893413.js.map"
+    "main.bf752e21.js.map": "/react-portfolio-website/static/js/main.bf752e21.js.map"
   },
   "entrypoints": [
     "static/css/main.af09be51.css",
-    "static/js/main.4e893413.js"
+    "static/js/main.bf752e21.js"
   ]
 }
