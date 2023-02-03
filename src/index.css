@@ -14,12 +14,12 @@
 
     */
 :root {
-    --color-bg: #1f042a;
-    --color-bg-variant: #100d34;
-    --color-primary: #fe2efe;
-    --color-primary-variant: rgb(255, 233, 30);
-    --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.768);
+    --color-bg: #111111;
+    --color-bg-variant: #303841;
+    --color-primary: #2BB3C0;
+    --color-primary-variant: #8E8B82;
+    --color-white: #F2F2F2;
+    --color-light: E0C097;
 
     --transition: all 400ms ease;
 
@@ -41,7 +41,6 @@ body {
  background: var(--color-bg);
  color: var(--color-white);
  line-height: 1.7;
- background-image: url(../src/assets/bg-texture.png);
 }
 
 /* ===============General Styles================= */
